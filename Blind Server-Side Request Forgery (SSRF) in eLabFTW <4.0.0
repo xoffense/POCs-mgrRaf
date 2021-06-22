@@ -1,0 +1,8 @@
+1. Open eLabFTW
+2. Got to 'Experiments'
+3. In the description body place payload: <img src=[your ext. resource] />
+4. Save experiment description
+5. Launch 'Edit' one more time and save it again
+6. Run 'Create PDF' and observe your resource (eg. burp collabolator). You will see that it gets multiple HTTP requests from eLabFTW internal infrastructure.
+
+See: https://github.com/elabftw/elabftw/security/advisories/GHSA-mh6g-62p8-26m4
