@@ -4,6 +4,7 @@ This vulnerability allows an attacker to make GET requests on behalf of the serv
 Issue has been patched in eLabFTW 4.0.0.
 
 Vector:  CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:H/I:N/A:N
+Base Score:  6.8 MEDIUM 
 
 1. Open eLabFTW
 2. Got to 'Experiments'
