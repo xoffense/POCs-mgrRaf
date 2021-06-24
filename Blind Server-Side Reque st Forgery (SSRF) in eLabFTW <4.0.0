@@ -9,7 +9,7 @@ Vector:  CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:H/I:N/A:N
 Base Score:  6.8 MEDIUM 
 
 1. Open eLabFTW
-2. Got to 'Experiments'
+2. Go to 'Experiments'
 3. In the description body place payload: <img src=[your ext. resource] />
 4. Save experiment description
 5. Launch 'Edit' one more time and save it again
